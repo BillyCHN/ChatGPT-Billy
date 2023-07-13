@@ -1,7 +1,8 @@
 {
-  "name": "chatgpt-next-web",
+  "name": "chatgpt-for-billy",
   "private": false,
-  "license": "mit",
+  "license": "MIT",
+  "version":"1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "cross-env BUILD_MODE=standalone next build",
